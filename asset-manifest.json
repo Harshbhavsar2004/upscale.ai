@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upscale.ai/static/css/main.8993ea55.css",
+    "main.js": "/upscale.ai/static/js/main.6ca5238a.js",
+    "index.html": "/upscale.ai/index.html",
+    "main.8993ea55.css.map": "/upscale.ai/static/css/main.8993ea55.css.map",
+    "main.6ca5238a.js.map": "/upscale.ai/static/js/main.6ca5238a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8993ea55.css",
+    "static/js/main.6ca5238a.js"
+  ]
+}
