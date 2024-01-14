@@ -22,9 +22,9 @@ function App() {
 
     const options = {
       method: 'POST',
-      url: 'https://ai-image-enhancer.p.rapidapi.com/restore-picture',
+      url: 'https://ai-picture-upscaler.p.rapidapi.com/supersize-image',
       headers: {
-        'X-RapidAPI-Key': '2a894ca52emsh135038db25366d1p173287jsn328a9a6f95c8',
+        'X-RapidAPI-Key': '5adae049c8mshc3ac5906c52bd92p127ecdjsn6f4a8a20172b',
         'X-RapidAPI-Host': 'ai-image-enhancer.p.rapidapi.com',
         'Content-Type': 'multipart/form-data',
       },
